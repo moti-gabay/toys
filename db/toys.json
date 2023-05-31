@@ -1,0 +1,205 @@
+[{
+  "_id": {
+    "$oid": "6459534d9ebda1af4be7f964"
+  },
+  "name": "lego",
+  "info": "this toy for boy from 5 years old until 15 years old ",
+  "category": "box",
+  "img_url": "https://img_url.com",
+  "price": 250,
+  "createdAt": {
+    "$date": "2023-05-08T19:53:49.140Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T19:53:49.140Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "6459542d9ebda1af4be7f967"
+  },
+  "name": "kalpa",
+  "info": "made from woods and kids like to play with this game ",
+  "category": "action",
+  "img_url": "https://img_url/kpla.com",
+  "price": 220,
+  "createdAt": {
+    "$date": "2023-05-08T19:57:33.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T19:57:33.570Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645954929ebda1af4be7f969"
+  },
+  "name": "taki",
+  "info": "card game form boy between ages 10-15 time for one gime one houre ",
+  "category": "thinking",
+  "img_url": "https://img_url/taki.com",
+  "price": 120,
+  "createdAt": {
+    "$date": "2023-05-08T19:59:14.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T19:59:14.763Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645954e39ebda1af4be7f96b"
+  },
+  "name": "pazel",
+  "info": "the in this game is to make the original img from small pices ",
+  "category": "box",
+  "img_url": "https://img_url/pazel.com",
+  "price": 110,
+  "createdAt": {
+    "$date": "2023-05-08T20:00:35.686Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:00:35.686Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645955419ebda1af4be7f96d"
+  },
+  "name": "monopol",
+  "info": "this game teach you how to be dogg bisnesman ",
+  "category": "box",
+  "img_url": "https://img_url/monopol.com",
+  "price": 310,
+  "createdAt": {
+    "$date": "2023-05-08T20:02:09.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:02:09.694Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645956339ebda1af4be7f971"
+  },
+  "name": "socer",
+  "info": "all the game is to keak ball in to the onther get  ",
+  "category": "action",
+  "img_url": "https://img_url/socere.com",
+  "price": 210,
+  "createdAt": {
+    "$date": "2023-05-08T20:06:11.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:06:11.735Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645956579ebda1af4be7f973"
+  },
+  "name": "beisball",
+  "info": "all the game is to keak ball in to the onther bascet  ",
+  "category": "action",
+  "img_url": "https://img_url/beisbol.com",
+  "price": 250,
+  "createdAt": {
+    "$date": "2023-05-08T20:06:47.592Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:06:47.592Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645956c59ebda1af4be7f975"
+  },
+  "name": "katan",
+  "info": "this game ialil a bit some as the monolo game but more smart and herd  ",
+  "category": "thinking",
+  "img_url": "https://img_url/katan.com",
+  "price": 350,
+  "createdAt": {
+    "$date": "2023-05-08T20:08:37.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:08:37.536Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645957339ebda1af4be7f977"
+  },
+  "name": "remicobe",
+  "info": "the pont is you need to get some set of the cards to win  ",
+  "category": "thinking",
+  "img_url": "https://img_url/remicoub.com",
+  "price": 320,
+  "createdAt": {
+    "$date": "2023-05-08T20:10:27.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:10:27.361Z"
+  },
+  "__v": 0,
+  "user_id": "6459512439810d147a0bf6c7"
+},{
+  "_id": {
+    "$oid": "645957896aee770d11438529"
+  },
+  "name": "remicobe",
+  "info": "the pont is you need to get some set of the cards to win  ",
+  "category": "thinking",
+  "img_url": "https://img_url/remicoub.com",
+  "price": 320,
+  "user_id": "6459512439810d147a0bf6c7",
+  "createdAt": {
+    "$date": "2023-05-08T20:11:53.453Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-08T20:11:53.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64623cc5e1c975c4754b83b5"
+  },
+  "name": "magnets",
+  "info": "you habe to biuld something fro the magntes ",
+  "category": "box",
+  "img_url": "https://img_url.com",
+  "price": 150,
+  "user_id": "646215894425751574e13b0d",
+  "createdAt": {
+    "$date": "2023-05-15T14:08:05.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-15T14:08:05.562Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6462520bd5689c17167fa918"
+  },
+  "name": "game boy ",
+  "info": "you need to take care of the dall and give dhem eat .. ",
+  "category": "thinking",
+  "img_url": "https://img_url.com",
+  "price": 310,
+  "user_id": "646215894425751574e13b0d",
+  "createdAt": {
+    "$date": "2023-05-15T15:38:51.357Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-15T15:48:06.350Z"
+  },
+  "__v": 0
+}]
